@@ -2,7 +2,7 @@
 ![El Codigo de Darwin](https://pbs.twimg.com/media/EyVafZIXEAQEZ0C?format=jpg&name=medium)
 # Proyecto de inteligencia artificial
 
-Aplicación de algoritmos géneticos para la reconstrucción de imágenes. 
+Aplicación de algoritmos géneticos para la reconstrucción de imágenes. Supervisado por la profesora Carolina Chang y realizado por Miguel Cordero en el curso CI2691 Laboratorio de Algoritmos y Estructuras I de la USB. Abril-Julio de 2021. 
 
 Proyecto realizado en Python a través de jupyter notebooks disponibles de forma local y en la nube a través de google colaboratory. 
 
